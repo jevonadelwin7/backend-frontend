@@ -12,3 +12,18 @@ yarn install
 ```sh
 yarn start
 ```
+
+
+## AdminReact Installation
+
+- Install the dependencies.
+
+```sh
+cd adminreact
+yarn install
+```
+- run app
+
+```sh
+yarn start
+```
